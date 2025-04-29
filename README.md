@@ -64,7 +64,7 @@ Me considero empático, proactivo, con buena energía y siempre dispuesto a asum
   <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github.com/FranGre/FranGre/blob/main/nochedepelis.png?text=NocheDepelis" alt="Proyecto 1" width="300" />
+      <img src="https://github.com/FranGre/FranGre/blob/main/nochedepelis.jpeg?text=NocheDepelis" alt="Proyecto 1" width="300" />
       <br>
 <a href="https://nochedepelis.xyz">
  <strong>NocheDePelis</strong>
