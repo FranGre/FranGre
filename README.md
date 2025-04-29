@@ -27,7 +27,7 @@ Me considero empático, proactivo, con buena energía y siempre dispuesto a asum
 <div align="center"> <code><img width="57" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code> <code><img width="57" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mariadb.png" alt="MariaDB" title="MariaDB"/></code> <code><img width="57" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mssql.png" alt="MSSQL" title="MSSQL"/></code> </div>
 
 <h3 align="center">DevOps / Infraestructura</h3>
-<div align="center"> <code><img width="57" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code> <code><img width="57" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code> <code><img width="57" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code> <code><img width="57" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png" alt="CI/CD" title="CI/CD"/></code> <code><img width="57" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nginx.png" alt="Nginx" title="Nginx"/></code> <code><img width="57" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/digital_ocean.png" alt="Digital Ocean" title="Digital Ocean"/></code> <code><img width="57" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></code> </div>
+<div align="center"> <code><img width="57" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code> <code><img width="57" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code> <code><img width="57" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code> <code><img width="57" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png" alt="CI/CD" title="CI/CD"/></code> <code><img width="57" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nginx.png" alt="Nginx" title="Nginx"/></code><code><img width="57" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></code> </div>
   
 <h3 align="center">Librerias y herramientas complementarias</h3>
 
@@ -60,7 +60,7 @@ Me considero empático, proactivo, con buena energía y siempre dispuesto a asum
 </div>
 
 
-<h2>Proyectos</h2>
+<h2 align="center">Proyectos</h2>
   <table align="center">
   <tr>
     <td align="center">
@@ -72,7 +72,12 @@ Me considero empático, proactivo, con buena energía y siempre dispuesto a asum
       <br>
       <em>Aplicación web para poder ver películas, creada y usada para mi familia y mis amigos</em>
       <br>
-      <sub>Tecnologías: Laravel, Vue, Tailwind</sub>
+      <sub>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Vue-007808?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Tailwind-4285F4?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/DaisyUI-facc15?style=for-the-badge" />
+      </sub>
       <br>
     </td>
   </tr>
