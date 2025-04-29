@@ -64,17 +64,16 @@ Me considero empático, proactivo, con buena energía y siempre dispuesto a asum
   <table align="center">
   <tr>
     <td align="center">
-      <img src="https://via.placeholder.com/300x200.png?text=Proyecto+1" alt="Proyecto 1" width="300" />
+      <img src="https://github.com/FranGre/FranGre/blob/main/nochedepelis.png?text=NocheDepelis" alt="Proyecto 1" width="300" />
       <br>
 <a href="https://nochedepelis.xyz">
  <strong>NocheDePelis</strong>
 </a>  
       <br>
-      <em>Aplicación web para poder ver películas</em>
+      <em>Aplicación web para poder ver películas, creada y usada para mi familia y mis amigos</em>
       <br>
       <sub>Tecnologías: Laravel, Vue, Tailwind</sub>
       <br>
     </td>
   </tr>
-  <!-- Repite por cada proyecto -->
 </table>
